@@ -1,0 +1,2 @@
+Hei, dette er min eksempelfil!
+I den står det kun to linjer med tekst
