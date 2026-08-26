@@ -1,6 +1,6 @@
 # TDT4110 2026
 
-Dette er øvingsrepoet til TDT4110 2025.
+Dette er øvingsrepoet til TDT4110 2026.
 
 ## Øvinger
 
